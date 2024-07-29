@@ -19,11 +19,7 @@ function App() {
         </a>
       </header>
       <h1>Hi, Welcome to React!</h1>
-<<<<<<< Updated upstream
-=======
       <h1>Hi, Welcome Again!</h1>
-      <h1>Hi, Welcome Again!</h1>
->>>>>>> Stashed changes
     </div>
   );
 }
